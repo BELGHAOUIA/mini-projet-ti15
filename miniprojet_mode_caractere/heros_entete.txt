@@ -1,0 +1,1 @@
+|     NUM HERO      |   BONUS ATTAQUE   |   BONUS DEFENSE   |  CHANCE CRITIQUE  |      MORALE       |POINTS ATTAQUE SPEC|       PRIX        |
